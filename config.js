@@ -1,21 +1,20 @@
 module.exports = {
   profile: {
-    ownerName: "", // defult: AiDarkEzio
-    ownerNumb: "", // defult: 94761539856
-    botName: "", // defult: Whats Bot MD
+    ownerName: "SUNETH Bro", // defult: AiDarkEzio
+    ownerNumb: "94770378874", // defult: 94761539856
+    botName: "BLACK SUKI-MD", // defult: Whats Bot MD
   },
   reply: {
-    notFound: "", // defult: "This Command not created. it was creating",
-    success: "", // defult: "Done ✓",
-    admin: "", // defult: "This Feature Is Only For Admin!",
-    botAdmin: "", // defult: "Bot Must Be Admin First!",
-    owner: "", // defult: "This Feature Is Only For Owner!",
-    group: "", // defult: "Feature Used Only For Groups!",
-    private: "", // defult: "Features Used Only For Private Chat!",
-    bot: "", // defult: "This Feature Is Only For Bot",
-    wait: "", // defult: "In process...",
-    linkm: "", // defult: "Where is the link?",
-    error: "", // defult: "Error!!",
+    notFound: "alive", // defult: "This Command not created. it was creating",
+    success: "done", // defult: "Done ✓",
+    admin: "owner", // defult: "This Feature Is Only For Admin!",
+    botAdmin: "botadmin", // defult: "Bot Must Be Admin First!",
+    owner: "suneth", // defult: "This Feature Is Only For Owner!",
+    group: "group", // defult: "Feature Used Only For Groups!",
+    private: "privet", // defult: "Features Used Only For Private Chat!",
+    bot: "bot", // defult: "This Feature Is Only For Bot",
+    wait: "waiting ", // defult: "In process...",
+    linkm: "not", // defult: "Where is the link?",    error: "errow is this ", / defult: "Error!!",
     endLimit: "", // defult: "Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours",
     ban: "", // defult: "You have been banned by the owner, if you want to be unbanned, chat owner.",
     nsfw: "", // defult: "The nsfw feature has not been activated, please contact the admin to activate",
